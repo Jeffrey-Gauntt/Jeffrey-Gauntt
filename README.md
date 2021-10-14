@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeffrey-Gauntt
+- 👋 Name: Jeffrey Gauntt
 - 👀 I’m interested in coding and music production.
 - 🌱 I’m continually learning Javascript and interactive website development.
 - 💞️ I’m looking to collaborate on video/ audio projects and simple web projects.
